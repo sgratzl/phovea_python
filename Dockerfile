@@ -3,7 +3,7 @@ FROM python:2.7
 LABEL maintainer="samuel.gratzl@datavisyn.io"
 LABEL description="This is a base image for phovea server docker images (dev version)" 
 LABEL vendor="The Caleydo Team"
-LABEL version="1.1"
+LABEL version="2018.04"
 
 # install node
 # install openssh-server for python debugging
