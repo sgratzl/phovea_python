@@ -1,4 +1,4 @@
-FROM python:2.7-slim
+FROM python:2.7
 
 LABEL maintainer="samuel.gratzl@datavisyn.io"
 LABEL description="This is a base image for phovea server docker images" 
