@@ -14,4 +14,3 @@ backports.csv==1.0.5
 tables==3.4.2
 redis==2.10.6
 pymongo==3.6.1
-subprocess32==3.5.0rc1
