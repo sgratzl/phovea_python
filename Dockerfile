@@ -1,6 +1,6 @@
 FROM python:2.7
 
-LABEL maintainer="samuel.gratzl@datavisyn.io"
+LABEL maintainer="contact@caleydo.org"
 LABEL description="This is a base image for phovea server docker images" 
 LABEL vendor="The Caleydo Team"
 LABEL version="1.1"
