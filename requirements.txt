@@ -9,8 +9,6 @@ pandas==0.25.0
 matplotlib==2.2.2
 Pillow==5.1.0
 json-cfg==0.4.2
-future==0.16.0
-backports.csv==1.0.5
 tables==3.4.2
 redis==2.10.6
 pymongo==3.6.1
