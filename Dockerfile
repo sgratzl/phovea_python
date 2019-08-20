@@ -1,4 +1,4 @@
-FROM python:2.7
+FROM python:3.7
 
 LABEL maintainer="contact@caleydo.org"
 LABEL description="This is a base image for phovea server docker images" 
